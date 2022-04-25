@@ -12,5 +12,5 @@
 3. Скачиваем секретный проект 🎉 </br>
 <code>git clone https://github.com/exstd/SuperBrawlDoS</code>
 4. Запускаем только для личных потерь 🤬🇺🇸 </br>
-<code> cd SuperBrawlDos && python3 ddos.py </code>
+<code> cd SuperBrawlDos && python3 megados.py </code>
 5. РАДУЕМСЯ ‼️‼️‼️‼️
