@@ -1,0 +1,23 @@
+import time
+print ("      -----------------       ")
+print ("      ДУДОСЕРКА ЕПТА)))       ")
+print ("      -----------------       ")
+print ("                              ")
+time.sleep(4)
+URL = input("IP >>> ")
+time.sleep(2)
+PING = input('PING >>> ')
+def DDOS():
+        print ("Send ping to host " + URL +"...")
+        print ("Send ping to host " + URL +"...")
+        print ("Send ping to host " + URL +"...")
+        print ("Send ping to host " + URL +"...")
+        print ("Send ping to host " + URL +"...")
+        print ("Ping = " + PING +"")
+        print ("Send ping to host " + URL +"...")
+        print ("Send ping to host " + URL +"...")
+        print ("Send ping to host " + URL +"...")
+        print ("Send ping to host " + URL +"...")
+time.sleep(6)
+while URL in URL:
+        DDOS()
